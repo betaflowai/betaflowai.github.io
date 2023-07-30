@@ -19,7 +19,7 @@ problem effectively.
 It's available on [*RAPID*](https://rapidapi.com/hub) API marketplace. You can easily follow
 this [tutorial](https://docs.rapidapi.com/docs/consumer-quick-start-guide) to create a RAPID
 account. Then you can follow this [tutorial](https://rapidapi.com/blog/how-to-use-an-api/)
-to learn how to use any API from the RAPID marketplace. When you simply go to the [*Answer]
+to learn how to use any API from the RAPID marketplace.
 
 When you simply go the [*AnswerMe*](https://bit.ly/3DhZA18) RAPID page, if you have a valid
 RAPID account, you fill find a generated code snippets in dozens of languages
